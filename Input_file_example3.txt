@@ -1,0 +1,33 @@
+Sbase (MVA)
+100
+Vbase (kV)
+154
+Number of circuits
+2
+Number of bundle conductors per phase
+7
+Bundle distance (m)
+0.9
+Length of the line (km)
+100
+ACSR conductor name
+Linnet
+C1 Phase A (centre)
+-5.8
+27
+C1 Phase B (centre)
+-4.4
+23.5
+C1 Phase C (centre)
+-4.2
+20
+C2 Phase A (centre)
+4.2
+20
+C2 Phase B (centre)
+4.4
+23.5
+C2 Phase C (centre)
+4.2
+27
+-999

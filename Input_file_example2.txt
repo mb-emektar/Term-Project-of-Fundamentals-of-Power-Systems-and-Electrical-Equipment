@@ -1,0 +1,24 @@
+Sbase (MVA)
+100
+Vbase (kV)
+154
+Number of circuits
+1
+Number of bundle conductors per phase
+6
+Bundle distance (m)
+0.5
+Length of the line (km)
+125
+ACSR conductor name
+Pheasant
+C1 Phase A (centre)
+-4
+25
+C1 Phase B (centre)
+0
+25
+C1 Phase C (centre)
+4
+25
+-999
